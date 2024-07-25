@@ -4,6 +4,7 @@ dotenv.config();
 
 import { connectDb } from "./config/db";
 //connect to db
+// add comment from dev 1
 connectDb();
 
 import express, { Request, Response } from "express";
