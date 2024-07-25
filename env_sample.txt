@@ -2,7 +2,7 @@
 PORT=5000
 
 #mongodb url
-MONGO_URL=your_mongodb_url
+MONGO_URL=your_mongodb_url_chnages_from_main
 
 #jwt secret
 JWT_SECRET=your_jwt_secret
