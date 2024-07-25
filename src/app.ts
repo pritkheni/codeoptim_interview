@@ -6,6 +6,7 @@ import { connectDb } from "./config/db";
 //connect to db
 // add comment from dev 1
 // add comment from dev 2
+// add comment from dev 1 => 2
 connectDb();
 
 import express, { Request, Response } from "express";
